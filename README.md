@@ -1,2 +1,5 @@
 # CGUPattern
-Official CGU Pattern for all projects
+
+This is a CGU
+User need to be gentil
+And the webmaster gagne money
